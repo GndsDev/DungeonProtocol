@@ -1,0 +1,21 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot imports and generated files
+.import/
+*.import
+export.cfg
+export_presets.cfg
+
+# .NET build output
+bin/
+obj/
+
+# IDE and OS files
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
